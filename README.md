@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raed (aka Ray)</h1>
+<h1 align="center">Hi 👋, I'm Raed </h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | 🛠 IT Troubleshooter | 🚀 Future Tech Founder</h3>
 
 ---
