@@ -11,11 +11,11 @@
 
 ## 🧠 About Me
 
-- 🌍 Based in Algeria | Dreaming big 🇺🇸
+- 🌍 Based in Algeria 
 - 👨‍💻 Currently learning Full Stack Development
 - 🧰 Experienced in IT troubleshooting, remote support, and network basics
 - 🚀 Working on building my first startup around remote IT support and automation tools
-- 💪 Gym rat & caffeine enthusiast ☕🏋️‍♂️
+
 
 
 ---
